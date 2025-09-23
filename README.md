@@ -1,2 +1,3 @@
 # AED
-Wearable Automated external defibrillators
+Wearable cardioverter defibrillators
+
