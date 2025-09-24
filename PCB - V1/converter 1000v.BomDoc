@@ -1,0 +1,19 @@
+|RECORD=BOM|VERSION=3|FILENAME=C:\Users\Public\Documents\Altium\converter 1000v\converter 1000v.BomDoc|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=20.09.2025|TIME=06:35:10|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=100!Comment=100!Description=100!Designator=100!Quantity=100!Manufacturer 1=100!Manufacturer Part Number 1=100!Manufacturer Lifecycle 1=100!Supplier 1=100!Supplier Part Number 1=100!Supplier Unit Price 1=100!Supplier Subtotal 1=100
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=-1!Manufacturer Part Number 1=-1!Manufacturer Lifecycle 1=-1!Supplier 1=-1!Supplier Part Number 1=-1!Supplier Unit Price 1=-1!Supplier Subtotal 1=-1|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=-1!Manufacturer Part Number 1=-1!Manufacturer Lifecycle 1=-1!Supplier 1=-1!Supplier Part Number 1=-1!Supplier Unit Price 1=-1!Supplier Subtotal 1=-1|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=-1!Manufacturer Part Number 1=-1!Manufacturer Lifecycle 1=-1!Supplier 1=-1!Supplier Part Number 1=-1!Supplier Unit Price 1=-1!Supplier Subtotal 1=-1
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=*\0399-T208|DESIGNITEMID=0399-T208|ITEMSOURCE=*|STATUS=Unknown|DESCRIPTION=Transformer|USERCOMMENTS=0399-T208|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=0399-T208,Transformer|COMPONENTPARAMETERS="Arrow Part Number=0399-T208","Arrow Price/Stock=https://www.arrow.com/en/products/0399-t208/sumida?utm_currency=USD&region=nac",Comment=0399-T208,"Component Kind=Standard","Datasheet Link=https://products.sumida.com/products/pdf/CEFD2010(0399-T208)_Ver1.0_E.pdf",Description=Transformer,Footprint=0399T208,Height=11.8mm,"Ibis Model=","Library Name=","Library Reference=0399-T208",Manufacturer_Name=Sumida,Manufacturer_Part_Number=0399-T208,"Mouser Part Number=","Mouser Price/Stock=",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=converter 1000v.SchLib\LT8304IS8E-1PBF|DESIGNITEMID=LT8304IS8E-1PBF|ITEMSOURCE=converter 1000v.SchLib|STATUS=Unknown|DESCRIPTION=No Description Available|USERCOMMENTS=LT8304IS8E-1PBF|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=LT8304IS8E-1PBF,"No Description Available"|COMPONENTPARAMETERS=Comment=LT8304IS8E-1PBF,"Component Kind=Standard","Description=No Description Available",Footprint=S_8E_ADI,"Ibis Model=","Library Name=converter 1000v.SchLib","Library Reference=LT8304IS8E-1PBF","Mfr_Name=Analog Devices Inc",PCB3D=,"Pin Info=",RefDes=RefDes,"Signal Integrity=",Simulation=,Type=Type|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
