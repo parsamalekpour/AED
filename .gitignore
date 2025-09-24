@@ -1,3 +1,5 @@
 *.log
 /PCB - V2/History
 /PCB - V2/__Previews
+*.SchDocPreview
+/PCB - MG/History
